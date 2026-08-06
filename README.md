@@ -14,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfoliow-seven.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilmundhe/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil2003mundhe@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ShravaniR2412&color=blueviolet&style=for-the-badge)](https://github.com/Sahileweb)
+[![Profile Views](https://komarev.com/ghpvc/?username=ShravaniR2412&color=blueviolet&style=for-the-badge)](https://github.com/DevM15)
 
 </div>
 
@@ -40,7 +40,7 @@
 
 </div>
 
-### 💻 Programming Languages
+### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -91,9 +91,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahileweb&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahileweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C792EA&text_color=FFFFFF&langs_count=8)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sahileweb&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title_color=C792EA&text_color=FFFFFF&icon_color=C792EA)
 
 </div>
 
