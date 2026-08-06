@@ -14,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfoliow-seven.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilmundhe/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil2003mundhe@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ShravaniR2412&color=blueviolet&style=for-the-badge)](https://github.com/Sahileweb)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sahileweb&color=blue&style=for-the-badge)](https://github.com/Sahileweb)
 
 </div>
 
